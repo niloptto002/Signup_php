@@ -2,7 +2,7 @@ PHP Signup Form with MySQL
 
 A simple and responsive Signup Form built using PHP, HTML, CSS, and MySQL. This project demonstrates form handling, server-side validation, database connectivity, and inserting user information into a MySQL database.
 
-🌐 Browser Link
+Browser Link :
 
 Run the project locally using XAMPP:
 
@@ -10,7 +10,7 @@ http://localhost/Signup_php/signup.php
 
 Note: Start Apache and MySQL in XAMPP before opening the link. This browser link works on your own computer; it is not a public website.
 
-✨ Features 
+Features :
 
 Clean and responsive signup form design
 
@@ -28,7 +28,7 @@ Uses htmlspecialchars() to safely display user input
 
 Displays a welcome message after successful submission
 
-🛠️ Technologies Used
+Technologies Used :
 
 PHP — Server-side processing and validation
 
